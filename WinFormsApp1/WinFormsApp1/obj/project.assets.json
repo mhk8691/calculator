@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "MathExpressions/1.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/MathExpressions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MathExpressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathExpressions/1.1.2": {
+      "sha512": "XenDvb2ZyMOAeKLKRKsnq9UB8q7oswmkESWiNxWzEQqFy+EunRNZpWI10fqEBuZD9sTmWwZybb2pIMWzjpIK8g==",
+      "type": "package",
+      "path": "mathexpressions/1.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/MathExpressions.dll",
+        "mathexpressions.1.1.2.nupkg.sha512",
+        "mathexpressions.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "MathExpressions >= 1.1.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ahura\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ahura\\OneDrive\\Desktop\\Programmig project\\calculator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectName": "WinFormsApp1",
+      "projectPath": "C:\\Users\\Ahura\\OneDrive\\Desktop\\Programmig project\\calculator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\Ahura\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ahura\\OneDrive\\Desktop\\Programmig project\\calculator\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ahura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "MathExpressions": {
+            "target": "Package",
+            "version": "[1.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

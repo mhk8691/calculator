@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/PugOUwKXrSxIZftDjRAFwMq5u77HvOqpqqSxBTASxynOHAHSjoDqcvcAKXzKt4c0RtQXA5cOCmat71pO4Ybw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahura\\OneDrive\\Desktop\\Programmig project\\calculator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahura\\.nuget\\packages\\mathexpressions\\1.1.2\\mathexpressions.1.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

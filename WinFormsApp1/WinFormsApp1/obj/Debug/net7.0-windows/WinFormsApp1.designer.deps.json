@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MathExpressions/1.1.2": {
+        "runtime": {
+          "lib/netstandard2.1/MathExpressions.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathExpressions/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XenDvb2ZyMOAeKLKRKsnq9UB8q7oswmkESWiNxWzEQqFy+EunRNZpWI10fqEBuZD9sTmWwZybb2pIMWzjpIK8g==",
+      "path": "mathexpressions/1.1.2",
+      "hashPath": "mathexpressions.1.1.2.nupkg.sha512"
+    }
+  }
+}
